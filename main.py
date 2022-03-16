@@ -1,10 +1,10 @@
 # импортируем библиотеки
 from flask import Flask, request
 import logging
-import os
 
 # библиотека, которая нам понадобится для работы с JSON
 import json
+import os
 
 # создаём приложение
 # мы передаём __name__, в нем содержится информация,
